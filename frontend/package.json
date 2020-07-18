@@ -1,7 +1,7 @@
 {
   "name": "vanilla-js-version",
   "version": "1.0.0",
-  "description": "",
+  "description": "Stall eCommerce in vanilla javascript",
   "main": "index.js",
   "scripts": {
     "start": "live-server src --verbose",
