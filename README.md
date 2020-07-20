@@ -3,11 +3,18 @@
 ## Tasks
 
 1. Create Folder Structure
-1. create root folder
-1. add frontend and backend folder
-1. create src folder in frontend
-1. create index.html with heading
-1. npm init
-1. npm install live server
-1. add start command as live-server src --verbose
-1. run npm start
+2. create root folder
+3. add frontend and backend folder
+4. create src folder in frontend
+5. create index.html with heading
+6. npm init
+7. npm install live server
+8. add start command as live-server src --verbose
+9. run npm start
+10. url routing and routes
+11. create utils
+12. export parseRequestURL()
+13. set url hash
+14. create error handlers
+15. create app.js
+16. set load events
